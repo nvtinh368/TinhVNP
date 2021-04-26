@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		39E2203E26369E4600362926 /* TinhVNP.h in Headers */ = {isa = PBXBuildFile; fileRef = 39E2203C26369E4600362926 /* TinhVNP.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		39E2204526369E5100362926 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39E2204426369E5100362926 /* File.swift */; };
+		39E2204526369E5100362926 /* TinhVNP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39E2204426369E5100362926 /* TinhVNP.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		39E2203926369E4600362926 /* TinhVNP.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TinhVNP.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		39E2203C26369E4600362926 /* TinhVNP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TinhVNP.h; sourceTree = "<group>"; };
 		39E2203D26369E4600362926 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		39E2204426369E5100362926 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		39E2204426369E5100362926 /* TinhVNP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinhVNP.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,7 +50,7 @@
 			children = (
 				39E2203C26369E4600362926 /* TinhVNP.h */,
 				39E2203D26369E4600362926 /* Info.plist */,
-				39E2204426369E5100362926 /* File.swift */,
+				39E2204426369E5100362926 /* TinhVNP.swift */,
 			);
 			path = TinhVNP;
 			sourceTree = "<group>";
@@ -135,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				39E2204526369E5100362926 /* File.swift in Sources */,
+				39E2204526369E5100362926 /* TinhVNP.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
