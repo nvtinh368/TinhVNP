@@ -8,8 +8,10 @@
 
 import Foundation
 
-public class Service{
+open class Service{
     public func showLis(){
         print("Okay")
     }
+    
+    public init(){}
 }
